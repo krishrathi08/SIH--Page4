@@ -1,0 +1,534 @@
+.hero {
+    position: absolute;
+    top: 58px;
+    left: -2px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    background-color: #d9d9d9;
+    border: 1px solid #000;
+    box-sizing: border-box;
+    width: 1240px;
+    height: 361px;
+}
+.see-more {
+    position: absolute;
+    top: 807px;
+    left: 235px;
+    font-size: 18.68px;
+    color: #0000ff;
+    display: inline-block;
+    width: 122.4px;
+    height: 13.1px;
+}
+.image-icon {
+    position: absolute;
+    top: -43px;
+    left: -5px;
+    border-radius: 28px;
+    width: 1243px;
+    height: 462px;
+    object-fit: cover;
+}
+.group-child {
+    position: absolute;
+    top: 0px;
+    left: 382px;
+    border-radius: 12px;
+    background-color: #e6be8a;
+    width: 336px;
+    height: 220px;
+    opacity: 0.65;
+}
+.group-item {
+    position: absolute;
+    top: 0px;
+    left: 780px;
+    border-radius: 12px;
+    background-color: #bc8f8f;
+    width: 336px;
+    height: 220px;
+    opacity: 0.75;
+}
+.previous-counselling-sessions {
+    position: absolute;
+    top: 23.98px;
+    left: 367px;
+    display: inline-block;
+    white-space: pre-wrap;
+    width: 374px;
+    height: 103.7px;
+    text-shadow: 1px 0 0 rgba(255, 255, 0, 0.5), 0 1px 0 rgba(255, 255, 0, 0.5), -1px 0 0 rgba(255, 255, 0, 0.5), 0 -1px 0 rgba(255, 255, 0, 0.5);
+}
+.nearby-counsellors {
+    position: absolute;
+    top: 23.98px;
+    left: 761px;
+    display: inline-block;
+    width: 374px;
+    height: 103.7px;
+    text-shadow: 1px 0 0 rgba(255, 255, 0, 0.5), 0 1px 0 rgba(255, 255, 0, 0.5), -1px 0 0 rgba(255, 255, 0, 0.5), 0 -1px 0 rgba(255, 255, 0, 0.5);
+}
+.group-inner {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 12px;
+    background-color: #008b8b;
+    width: 336px;
+    height: 220px;
+    opacity: 0.65;
+}
+.booking-a-career {
+    position: absolute;
+    top: 23.98px;
+    left: 29px;
+    display: inline-block;
+    text-align: left;
+    width: 286px;
+    height: 76.1px;
+}
+.rectangle-parent {
+    position: absolute;
+    top: 187px;
+    left: 52px;
+    width: 1135px;
+    height: 220px;
+    text-align: center;
+    font-size: 30px;
+    color: #fff;
+}
+.desktop-1-child {
+    position: absolute;
+    top: -27px;
+    left: -11px;
+    background-color: #000;
+    width: 1280px;
+    height: 95px;
+}
+.whatsapp-image-2024-09-18-at-0 {
+    position: absolute;
+    top: 4px;
+    left: 47px;
+    border-radius: 50%;
+    width: 57px;
+    height: 54px;
+    object-fit: cover;
+}
+.home {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: inline-block;
+    width: 200.7px;
+    height: 68px;
+}
+.nep-implementation {
+    position: absolute;
+    top: 0px;
+    left: 361.03px;
+    display: inline-block;
+    width: 272.5px;
+    height: 47.8px;
+}
+.career-session {
+    position: absolute;
+    top: 0px;
+    left: 132.3px;
+    display: inline-block;
+    width: 310.6px;
+    height: 51.7px;
+}
+.counsellors {
+    position: absolute;
+    top: 0px;
+    left: 635.73px;
+    display: inline-block;
+    width: 326.3px;
+    height: 47.8px;
+}
+.home-parent {
+    position: absolute;
+    top: 20px;
+    left: 435px;
+    width: 962px;
+    height: 68px;
+    font-size: 21.04px;
+    color: #fff;
+    font-family: 'Instrument Sans';
+}
+.rectangle-div {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 15px;
+    background-color: #e5ddd2;
+    width: 578px;
+    height: 394px;
+}
+.group-child1 {
+    position: absolute;
+    top: 51.78px;
+    left: 34px;
+    border-radius: 29.19px;
+    background-color: #e2e2ff;
+    width: 485.1px;
+    height: 43.3px;
+}
+.group-child2 {
+    position: absolute;
+    top: 108.27px;
+    left: 34px;
+    border-radius: 29.19px;
+    background-color: #f2e3e9;
+    width: 485.1px;
+    height: 43.3px;
+}
+.group-child3 {
+    position: absolute;
+    top: 219.36px;
+    left: 35.93px;
+    border-radius: 29.19px;
+    background-color: #f2e3e9;
+    width: 485.1px;
+    height: 43.3px;
+}
+.group-child4 {
+    position: absolute;
+    top: 328.57px;
+    left: 35.93px;
+    border-radius: 29.19px;
+    background-color: #f2e3e9;
+    width: 485.1px;
+    height: 43.3px;
+}
+.aiml-expert {
+    position: absolute;
+    top: 61.19px;
+    left: 44.63px;
+    display: inline-block;
+    width: 116.9px;
+}
+.counsellors1 {
+    position: absolute;
+    top: 0px;
+    left: 176.04px;
+    font-size: 30.9px;
+    display: inline-block;
+    font-family: Inter;
+    width: 202px;
+    height: 43.3px;
+}
+.whatsapp-image-2024-09-19-at-2 {
+    position: absolute;
+    top: 52.72px;
+    left: 295.86px;
+    border-radius: 159.58px;
+    width: 44.4px;
+    height: 41.4px;
+    object-fit: cover;
+}
+.yuvraj-saxena {
+    position: absolute;
+    top: 61.19px;
+    left: 360.6px;
+    display: inline-block;
+    color: #5d2199;
+    width: 123.7px;
+}
+.amrita-jain {
+    position: absolute;
+    top: 115.8px;
+    left: 360.6px;
+    display: inline-block;
+    color: #5d2199;
+    width: 101.5px;
+}
+.group-child5 {
+    position: absolute;
+    top: 162.87px;
+    left: 35.93px;
+    border-radius: 29.19px;
+    background-color: #e2e2ff;
+    width: 485.1px;
+    height: 43.3px;
+}
+.software-developer {
+    position: absolute;
+    top: 172.29px;
+    left: 46.56px;
+    display: inline-block;
+    width: 174.9px;
+}
+.gaurav-shukla {
+    position: absolute;
+    top: 172.29px;
+    left: 360.6px;
+    display: inline-block;
+    color: #5d2199;
+    width: 127.5px;
+}
+.whatsapp-image-2024-09-19-at-1 {
+    position: absolute;
+    top: 162.87px;
+    left: 295.86px;
+    border-radius: 23.54px;
+    width: 44.4px;
+    height: 41.4px;
+    object-fit: cover;
+}
+.group-child6 {
+    position: absolute;
+    top: 273.96px;
+    left: 34.97px;
+    border-radius: 29.19px;
+    background-color: #e2e2ff;
+    width: 485.1px;
+    height: 43.3px;
+}
+.data-scientist {
+    position: absolute;
+    top: 285.26px;
+    left: 44.63px;
+    display: inline-block;
+    width: 124.6px;
+}
+.deepika-agarwal {
+    position: absolute;
+    top: 226.89px;
+    left: 360.6px;
+    display: inline-block;
+    color: #5d2199;
+    width: 148.8px;
+}
+.anshul-sharma {
+    position: absolute;
+    top: 283.38px;
+    left: 360.6px;
+    display: inline-block;
+    color: #5d2199;
+    width: 135.3px;
+}
+.mitali-gupta {
+    position: absolute;
+    top: 335.16px;
+    left: 360.6px;
+    display: inline-block;
+    color: #5d2199;
+    width: 110.2px;
+}
+.images-1-icon {
+    position: absolute;
+    top: 219.36px;
+    left: 297.79px;
+    border-radius: 86.14px;
+    width: 40.7px;
+    height: 41.4px;
+    object-fit: cover;
+}
+.psychology {
+    position: absolute;
+    top: 230.66px;
+    left: 44.63px;
+    display: inline-block;
+    width: 116px;
+    height: 19.8px;
+}
+.career-counsellor {
+    position: absolute;
+    top: 117.68px;
+    left: 44.63px;
+    display: inline-block;
+    width: 165.2px;
+    height: 35.8px;
+}
+.image-1-icon {
+    position: absolute;
+    top: 106.38px;
+    left: 296.83px;
+    border-radius: 70.61px;
+    width: 48.3px;
+    height: 49px;
+    object-fit: cover;
+}
+.image-2-icon {
+    position: absolute;
+    top: 272.08px;
+    left: 294.89px;
+    border-radius: 101.68px;
+    width: 46.4px;
+    height: 46.1px;
+    object-fit: cover;
+}
+.product-manager {
+    position: absolute;
+    top: 337.98px;
+    left: 46.56px;
+    display: inline-block;
+    width: 185.5px;
+    height: 23.5px;
+}
+.image-3-icon {
+    position: absolute;
+    top: 325.74px;
+    left: 297.79px;
+    border-radius: 131.8px;
+    width: 47.3px;
+    height: 48px;
+    object-fit: cover;
+}
+.rectangle-group {
+    position: absolute;
+    top: 458px;
+    left: 28px;
+    width: 578px;
+    height: 394px;
+    font-size: 19.81px;
+    font-family: 'Inria Sans';
+}
+.desktop-1-item {
+    position: absolute;
+    top: 458px;
+    left: 638px;
+    border-radius: 15px;
+    background-color: #8168d4;
+    width: 575px;
+    height: 394px;
+}
+.national-education-policy {
+    margin: 0;
+    white-space: pre-wrap;
+}
+.implementation {
+    margin: 0;
+}
+.national-education-policy-container {
+    position: absolute;
+    top: 471px;
+    left: 649px;
+    font-size: 39.76px;
+    display: inline-block;
+    font-family: 'Inria Sans';
+    color: #ffe4b5;
+    width: 585.1px;
+}
+.pdf-presentations-videos-container {
+    position: absolute;
+    top: 601px;
+    left: 692px;
+    font-size: 30px;
+    display: inline-block;
+    font-family: 'Inria Sans';
+    color: #fff;
+    width: 323px;
+    height: 164px;
+    text-shadow: 0px 3.313131332397461px 3.31px rgba(0, 0, 0, 0.25);
+}
+.desktop-1-inner {
+    position: absolute;
+    top: 613px;
+    left: 663px;
+    border-radius: 50%;
+    background-color: #9fd5e6;
+    width: 10px;
+    height: 9px;
+}
+.ellipse-div {
+    position: absolute;
+    top: 651px;
+    left: 663px;
+    border-radius: 50%;
+    background-color: #9fd5e6;
+    width: 10px;
+    height: 9px;
+}
+.desktop-1-child1 {
+    position: absolute;
+    top: 686px;
+    left: 663px;
+    border-radius: 50%;
+    background-color: #9fd5e6;
+    width: 10px;
+    height: 9px;
+}
+.desktop-1-child2 {
+    position: absolute;
+    top: 724px;
+    left: 663px;
+    border-radius: 50%;
+    background-color: #9fd5e6;
+    width: 10px;
+    height: 9px;
+}
+.desktop-1-child3 {
+    position: absolute;
+    top: 347px;
+    left: 261px;
+    border-radius: 19px;
+    background-color: #66e9e9;
+    border: 4px solid #0094d9;
+    box-sizing: border-box;
+    width: 110px;
+    height: 52px;
+}
+.desktop-1-child4 {
+    position: absolute;
+    top: 347px;
+    left: 644px;
+    border-radius: 19px;
+    background-color: #ffba5f;
+    border: 4px solid #fb9921;
+    box-sizing: border-box;
+    width: 110px;
+    height: 52px;
+}
+.desktop-1-child5 {
+    position: absolute;
+    top: 347px;
+    left: 1040px;
+    border-radius: 19px;
+    background-color: #ffbebe;
+    border: 4px solid #d486c9;
+    box-sizing: border-box;
+    width: 110px;
+    height: 52px;
+}
+.book-now {
+    position: absolute;
+    top: 363px;
+    left: 277px;
+    font-weight: 600;
+    display: inline-block;
+    width: 94px;
+    height: 49px;
+}
+.show {
+    position: absolute;
+    top: 363px;
+    left: 673px;
+    font-weight: 600;
+    display: inline-block;
+    width: 50px;
+    height: 25px;
+}
+.explore {
+    position: absolute;
+    top: 363px;
+    left: 1066px;
+    font-weight: 600;
+    display: inline-block;
+    width: 80px;
+    height: 29px;
+}
+.desktop-1 {
+    width: 100%;
+    position: relative;
+    background-color: #cbd8c7;
+    border: 1px solid #000;
+    box-sizing: border-box;
+    height: 882px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 16px;
+    color: #000;
+    font-family: Inter;
+}
+
